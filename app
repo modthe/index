@@ -337,7 +337,7 @@ padding: 1rem;
 
 <div class="card">
 <h3>Web App URL Configuration</h3>
-<input type="text" id="webAppUrl" placeholder="Paste your Google Apps Script Web App URL here">
+<input type="text" id="webAppUrl" placeholder="https://script.google.com/macros/s/AKfycbwh_GgPYBGw1V-lsxJGuNO8xk2ZqZNykdQZDvrTTo6ffqyKIfj-yKRj-ckpgS2TBvI-qw/exec">
 <button onclick="saveWebAppUrl()">Save URL</button>
 <p id="urlStatus" style="margin-top: 10px;"></p>
 </div>
